@@ -72,6 +72,7 @@ type User = {
 */
 
 
+//🔹 9. Inherit type to function
 type User = {
   name: string;
   age: number;
@@ -84,4 +85,13 @@ function getUser(name: string, age: number): User {
   };
 }
 
-1. ✅ When you want reusable function type
+//🔹 9. Dynamic Keys
+
+type Scores = {
+  [key: string]: number;
+};
+
+const marks: Scores = {
+  math: 90,
+  science: 85
+};
