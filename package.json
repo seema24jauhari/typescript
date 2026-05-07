@@ -1,0 +1,20 @@
+{
+  "name": "ts",
+  "version": "1.0.0",
+  "description": "This repository contains my journey of learning TypeScript from basic to advanced concepts. It includes examples, practice exercises, and mini projects to build strong TypeScript skills.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seema24jauhari/typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seema24jauhari/typescript/issues"
+  },
+  "homepage": "https://github.com/seema24jauhari/typescript#readme"
+}
